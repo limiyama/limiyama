@@ -7,9 +7,6 @@
   
 </div>
 <br><br>
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Felipe1501&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
