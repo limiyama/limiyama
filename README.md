@@ -17,13 +17,5 @@ hello! i'm ligia akemi :)
 <br>
 
 <div align="center">
-  <h2>Most Used Languages</h2>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula">
-
-  <br><br>
-
-  <h2>Lígia Akemi Mizuyama's GitHub Stats</h2>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&theme=dracula"><img src="https://github-readme-stats.vercel.app/api?username=limiyama&show_icons=true&theme=dracula">
 </div>
