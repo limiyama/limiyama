@@ -1,15 +1,15 @@
-<div align="center">
+<div display="inline-block">
   <div align="left">
     <img src="https://pa1.aminoapps.com/7668/e823dd5d02877124689a9a0e00ad482d84d8c55ar1-500-250_hq.gif">
-  </div><div align="left">
+  </div>
+  <div>
     <pre>
       hello! i'm ligia akemi :)
-  
       🧬 biotechnology @ EACH-USP
       🖥️ systems development @ ETEC Adolpho Berezin
       🦠 FAPESP TT-1 scholar @ LabAzul 
     </pre>
-  </pre>
+  </div>
 </div>
 
 <div align="center">
