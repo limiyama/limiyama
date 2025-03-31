@@ -7,7 +7,7 @@ hi, i'm ligia akemi!
 🧬 biotechnology @ EACH-USP  
 🖥️ systems development @ ETEC Adolpho Berezin  
 🦠 FAPESP TT-1 scholar @ LabAzul
-</pre><pre> <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&langs_count=8&theme=dracula&hide_border=true"/></pre>
+</pre><pre> <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&langs_count=8&theme=dracula&hide_border=true"/><img height="188px" src="https://github-readme-stats.vercel.app/api?username=limiyama&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"/></pre>
 
 
 
