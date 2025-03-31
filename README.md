@@ -1,8 +1,7 @@
 <div align="center">
-  <div align="left" width=48%>
+  <div align="left">
     <img src="https://pa1.aminoapps.com/7668/e823dd5d02877124689a9a0e00ad482d84d8c55ar1-500-250_hq.gif">
-  </div>
-  <div align="right" width=48%>
+  </div><div align="left">
     <pre>
       hello! i'm ligia akemi :)
   
