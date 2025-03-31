@@ -6,7 +6,9 @@
     🖥️ systems development @ ETEC Adolpho Berezin
     🦠 FAPESP TT-1 scholar @ LabAzul 
 </pre>
-    
+
+<br>
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&width=435&lines=hello!+this+is+ligia+akemi+%3A)" alt="Typing SVG" /></a>
 </div>
