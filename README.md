@@ -3,9 +3,9 @@
 </div>
 <div align="center">
   <pre>
-    <img height="145px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+    <img height="145px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
     <br>
-    <img height="145px" width="300px" src="https://github-readme-stats.vercel.app/api?username=limiyama&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img height="145px" width="350px" src="https://github-readme-stats.vercel.app/api?username=limiyama&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"/>
   </pre>
 </a>
 </div>
