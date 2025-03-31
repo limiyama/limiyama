@@ -17,5 +17,5 @@ hello! i'm ligia akemi :)
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&theme=dracula"><img src="https://github-readme-stats.vercel.app/api?username=limiyama&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&theme=dracula&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=limiyama&show_icons=true&theme=dracula&hide_border=true">
 </div>
