@@ -14,3 +14,26 @@
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&theme=dracula&hide_border=true">  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=limiyama&show_icons=true&theme=dracula&hide_border=true">
 </div>
+
+<img src="https://i.imgur.com/B72xOeX.png" width="25%" align="right" />
+
+
+<!-- Introduction -->
+
+<pre>
+  👩‍💻 I'm Giane Mayumi :)
+
+  📍 São Paulo - Brazil
+  📚 Information Systems @ USP • Web computing @ IFSP
+  💼 Front-end Software Engineer @ ImmunoQs
+  💻 Webdev • Bioinformatics • Physical computing • InfoSec 
+  🌟 Check on my projects!
+</pre>
+
+
+<!-- Stats -->
+<div align="center" >
+<pre>
+<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&langs_count=8&theme=material-palenight&hide_border=true"/> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=limiyama&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false"/>
+</pre>
+</div>
