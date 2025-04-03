@@ -4,7 +4,6 @@
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://64.media.tumblr.com/8752f78cfb288dea542838efd3e90cbf/tumblr_ojceegrhZO1vxr5i1o1_540.gif">
 
-# hi! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 i'm ligia akemi!
 
 🧬 biotechnology @ EACH-USP  
