@@ -12,7 +12,7 @@ welcome to my github profile!
 [![](https://img.shields.io/badge/lattes-851B11)](http://lattes.cnpq.br/8085124701759641)
  
 <br>
-<pre align="center"> <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&langs_count=8&theme=onedark&bg_color=282A36&text_color=FFF&hide_border=true"/> <img height="180px" src="https://github-readme-stats.vercel.app/api?username=limiyama&theme=onedark&bg_color=282A36&text_color=FFF&hide_border=true&include_all_commits=false&count_private=false"/></pre>
+<div align="center"> <img height="188px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limiyama&layout=compact&langs_count=8&theme=onedark&bg_color=282A36&text_color=FFF&hide_border=true"/> <img height="188px" src="https://github-readme-stats.vercel.app/api?username=limiyama&theme=onedark&bg_color=282A36&text_color=FFF&hide_border=true&include_all_commits=false&count_private=false"/></div>
 
 
 </div>
